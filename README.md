@@ -2,15 +2,15 @@
 =============
 
 This is the supporting Adobe Air project for running different code test involving NUI technologies, 
-with both the Microsoft Kinect and LeapMotion devices. To find out more go here, GIT: https://github.com/mosaiceye/OrangePeelNUI
+with both the Microsoft Kinect and LeapMotion devices. To find out more go here, GIT: http://github.com/mosaiceye/OrangePeelNUI
 
 ## Current Status
 Just got started!
 
 ## Examples
 1. "Center Position Test", just tracks all user center point info; currently being tracked by the Microsoft Kinect.
-2. "World Relative Skeleton", displays all the skeleton points being tracked in the world relative environment from the Microsoft Kinect.
-3. "Away3D World Skeleton", displays a basic avatar skeleton in a 3D space with the help of Away3D.
+2. "World Relative Skeletons Test", displays all the skeleton points being tracked in the world relative environment from the Microsoft Kinect.
+3. "Away3D World Skeletons Test", displays a basic avatar skeleton in a 3D space with the help of Away3D.
 4. "User Masked Test", demos the basic masking capabilities from the AirKinect project.
 
 ## Dependencies
