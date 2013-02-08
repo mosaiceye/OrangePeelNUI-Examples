@@ -2,7 +2,7 @@
 =============
 
 This is the supporting Adobe Air project for running different code test involving NUI technologies, 
-and both the Microsoft Kinect and LeapMotion devices. To find out more go here, GIT: https://github.com/mosaiceye/OrangePeelNUI
+with both the Microsoft Kinect and LeapMotion devices. To find out more go here, GIT: https://github.com/mosaiceye/OrangePeelNUI
 
 ## Current Status
 Just got started!
